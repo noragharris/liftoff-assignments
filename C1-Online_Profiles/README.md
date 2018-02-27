@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/nora-harris-0a187165/)
 
 ### Resume
-[Resume](/NoraHarris_ResumeFeb2018.pdf)
+[Resume](/NoraHarris_ResumeFeb2018)
