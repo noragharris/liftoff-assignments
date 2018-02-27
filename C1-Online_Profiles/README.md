@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/noragharris)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/nora-harris-0a187165/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](/NoraHarris_ResumeFeb2018.pdf)
